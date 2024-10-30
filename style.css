@@ -43,3 +43,24 @@ header nav ul li a {
 header nav ul li a:hover {
     color: #ddd;
 }
+
+/* Section styling */
+.section {
+    padding: 2rem;
+    text-align: center;
+}
+
+.section h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.section p {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
