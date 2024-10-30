@@ -12,6 +12,13 @@ body {
     color: #333;
 }
 
+img {
+    max-width: 300px;
+    max-height: 200px;
+    width: auto;
+    height: auto;
+}
+
 /* Header styles */
 header {
     background-color: #333;
